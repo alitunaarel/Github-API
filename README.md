@@ -4,3 +4,5 @@
 
 ### if you have any question, just send me an e-mail.
 ===========
+
+#### Current version. By default, all requests to https://api.github.com receive the v3 version of the REST API.
